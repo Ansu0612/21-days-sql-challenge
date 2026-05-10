@@ -1,2 +1,8 @@
-# 21-days-sql-challenge
-Sql Interview prep questions
+21-days-sql-challenge/
+│
+├── Day-01/
+├── Day-02/
+├── Day-03/
+│
+├── datasets/
+├── README.md
